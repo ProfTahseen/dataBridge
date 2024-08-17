@@ -1,0 +1,5 @@
+
+
+- 8 adet 1-bit register olacak. (Kabloları temsil eden)
+- Herkes bu registerlara istediği gibi okuma-yazma yapabilecek.
+- En küçük zaman birimine ms diyeceğiz.
